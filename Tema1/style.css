@@ -1,0 +1,10 @@
+
+body{
+    width: 1440px;
+height: 1024px;
+background: url(img/New_mapBLUR.jpg) ;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}

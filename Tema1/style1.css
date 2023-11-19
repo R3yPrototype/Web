@@ -1,0 +1,102 @@
+
+
+body{
+    width: 1440px;
+height: 1024px;
+background: url(img/New_mapBLUR.jpg) ;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+	
+ 
+
+}
+.container{
+width: 489px;
+height: 636px;
+flex-shrink: 0;
+background: #FFF;
+margin:auto;
+margin-top: 194px;
+margin-bottom: 194px;
+padding-bottom: 60px;
+}
+
+h1{
+    width: 141px;
+    color: #000;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 174px;
+margin-right: 174px;
+padding-top: 102px;
+}
+
+input{
+    width: 389px;
+height: 46px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #F0F0F0;
+margin-top:20px;
+margin-left: 48px;
+}
+
+.checkbox{
+    width: 14px;
+height: 14px;
+flex-shrink: 0;
+border-radius: 1px;
+background: #F0F0F0;
+
+
+}
+
+.icon{
+    width: 84px;
+height: 84px;
+flex-shrink: 0;
+}
+
+a{
+    width: 60.876px;
+    color: #C1C1C1;
+font-family: Khand;
+font-size: 11px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+
+
+.container2{
+    
+    
+    padding-top: 107px;
+}
+
+.container3{
+    margin-top: 20px;
+    margin-left: 190px;
+    margin-bottom: 30px;
+}
+svg{
+    margin-top: 3px;
+    margin-left: 202px;
+    margin-bottom: 44px;
+}
+
+
+
+
+
+
+
+
+
